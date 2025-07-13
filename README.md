@@ -14,3 +14,6 @@ Welcome to my GitHub profile!
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Top Lang](https://img.shields.io/github/languages/top/Arshpreet-Singh0/project1)
+![Top Lang](https://img.shields.io/github/languages/top/Arshpreet-Singh0/project2)
+![Top Lang](https://img.shields.io/github/languages/top/Arshpreet-Singh0/project3)
