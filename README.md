@@ -14,6 +14,8 @@ Welcome to my GitHub profile!
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
+https://camo.githubusercontent.com/252652e7907a6512ea591940e40516e9570dcf8f3ce60e929b1cbb517041ea32/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e7572616773696e6768326a7a2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanramola&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
