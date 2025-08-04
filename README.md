@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 [![GitHub followers](https://img.shields.io/github/followers/amanramola?label=Follow&style=social)](https://github.com/amanramola)
 
-https://devchip.vercel.app/profile.svg?username=amanramola
+![devchip](https://devchip.vercel.app/profile.svg?username=amanramola)
 
 ### 🚀 My Tech Stack
 
